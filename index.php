@@ -1,8 +1,8 @@
 <?php
 
-  echo "PR 테스트";
+  // echo "PR 테스트";
 
-  phpinfo();
+  // phpinfo();
 
 
   echo "dev에만 커밋";
